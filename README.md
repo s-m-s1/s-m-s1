@@ -22,7 +22,7 @@
 
 - 📚 Always learning new technologies
 
-- 📫 Reach me at: **your_email@example.com**
+- 📫 Reach me at:
 
 
 
